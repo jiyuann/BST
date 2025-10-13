@@ -84,7 +84,7 @@ The resulting tree:
 ## BST Implementation
 
 Reference:
-[Tree Notes](https://docs.google.com/document/d/1vmMKC6qzvKVJg3-SRSzbivBvTvgjXi1BhjuMVsjlHKI/edit#heading=h.lk2evne25w9)
+[Tree Notes](https://docs.google.com/document/d/16J_UDaYjGg0JrcdQ68IJH_9kIx_jFvlabJIxJSCqoZc/edit?tab=t.0)
 [Linked List Notes](https://docs.google.com/document/d/1d5DVPfbw_o475AmZ9n13ORy9fd8dBynkVbkVRthhms8/edit#heading=h.mejovh4ux3)
 
 In your pairs, your task is to create an iterative BST implementation with the following requirements:
