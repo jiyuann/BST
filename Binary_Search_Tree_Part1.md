@@ -98,7 +98,7 @@ A `BSTree` class with the following **attribute**:
 - `root` initialised to `None`
 
 and the following **methods**:
-- `is_empty()` returns True if the Tree is empty or False otherwise 
+- `is_empty()` returns `True` if the Tree is empty or `False` otherwise 
 - `insert(key)` inserts a `Node` instance with the associated key into the BST
 - `search(key)` returns `True` if key if found, `False` otherwise
 
