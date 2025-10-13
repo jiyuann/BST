@@ -2,7 +2,7 @@ from bst import BinarySearchTree
 
 if __name__ == "__main__":
     # Test your code with the following data
-    bst = BSTree()
+    bst = BinarySearchTree()
     bst.insert(3)
     bst.insert(7)
     bst.insert(2)

@@ -94,7 +94,7 @@ A `Node` class with the following **attributes**:
 - `right` intialised to `None`
 - `key`
 
-A `BSTree` class with the following **attribute**:
+A `BinarySearchTree` class with the following **attribute**:
 - `root` initialised to `None`
 
 and the following **methods**:
