@@ -103,7 +103,7 @@ and the following **methods**:
 - `insert(key)` inserts a `Node` instance with the associated key into the BST
 - `search(key)` returns `True` if key if found, `False` otherwise
 
-<i>**Remember to add your docstrings**</i>
+<i>**Remember to add your docstrings and appropriate function annotations**</i>
 
 ## Conclusion
 Binary Search Trees may appear a little confusing at first but the only way to get the hang of it is to keep practicing. That’s it for this tutorial. In the next tutorial, we'll look at some different ways to traverse a Binary Search Tree. Happy Pythoning!
