@@ -52,14 +52,15 @@ The general algorithm for inserting a node into a BST is given below:
 3. If it is, set the new node as the root of the tree and stop.
 4. If the tree is not empty, start at the root of the tree.
 5. Compare the value of the new node with the current node’s value:
-6. If the new value is smaller, move to the left child.
-7. If the new value is larger or equal, move to the right child.
-8. Repeat the comparison at each child node:
-9. Keep moving left or right until you find an empty spot (i.e., a None or null value).
-10. When you find an empty spot, insert the new node there:
-11. If it's smaller than the last node you visited, place it as the left child.
-12. If it's larger or equal, place it as the right child.
-13. The node is now inserted in its correct position, keeping the binary search tree structure intact.
+6. If the new value is equal, raise an exception (our implementation does not allow for duplicate entries). 
+7. If the new value is smaller, move to the left child.
+8. If the new value is larger or equal, move to the right child.
+9. Repeat the comparison at each child node:
+10. Keep moving left or right until you find an empty spot (i.e., a None or null value).
+11. When you find an empty spot, insert the new node there:
+12. If it's smaller than the last node you visited, place it as the left child.
+13. If it's larger or equal, place it as the right child.
+14. The node is now inserted in its correct position, keeping the binary search tree structure intact.
 
 ## Visual Example (Inserting 15 into the BST)
 `      20`<br>
